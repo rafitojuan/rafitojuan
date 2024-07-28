@@ -106,6 +106,3 @@ Whether it’s optimizing server performance or building seamless APIs, I thrive
 ![Profile views counter](https://komarev.com/ghpvc/?username=rafitojuan&&style=flat-square)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
