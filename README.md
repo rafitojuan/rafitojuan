@@ -44,7 +44,7 @@ Whether it’s optimizing server performance or building seamless APIs, I thrive
 - 🔭 I’m currently working on [MPS ONLINE](https://mpsonline.gravix.id)  
   
 
-- 🌱 I’m currently learning Data Science  
+- 🌱 I’m currently learning Mobile Development  
   
 
 - ❓ Ask me about anything tech related  
