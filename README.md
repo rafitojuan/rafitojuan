@@ -50,7 +50,7 @@ Whether it’s optimizing server performance or building seamless APIs, I thrive
 - ❓ Ask me about anything tech related  
   
 
-- ⚡ Fun fact: Im a Gooners  
+- ⚡ Fun fact: Im a Gunners 🔴  
 
 
 </td><td valign="top" width="50%">
