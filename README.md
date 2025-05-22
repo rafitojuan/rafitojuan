@@ -44,7 +44,8 @@ Whether it’s optimizing server performance or building seamless APIs, I thrive
 - 🔭 I’m currently working on [QARIRHACK](https://qarirhack.gravix.my.id/)  
   
 
-- 🌱 I’m currently learning Mobile Development  
+- 🌱 I’m currently learning Mobile Development
+- Update : I've learned Mobile Development with Flutter and already did some project lmao (what a journey)  
   
 
 - ❓ Ask me about anything tech related  
