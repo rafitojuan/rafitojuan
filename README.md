@@ -9,7 +9,7 @@
 
 
 ### About me!  
-I'm a passionate Web Developer and IT Support Specialist based in Jakarta, Indonesia. I graduated from SMK Negeri 12 Jakarta, majoring in Software Engineering — and ever since, I’ve been building things on the web (and sometimes fixing the server when it screams for help 😅).
+I'm a passionate Software Engineer and IT Support Specialist based in Jakarta, Indonesia. I graduated from SMK Negeri 12 Jakarta, majoring in Software Engineering — and ever since, I’ve been building things on the web (and sometimes fixing the server when it screams for help 😅).
 
 I’ve worked on a wide range of projects: from a kanban-based project management system for a port electricity company, to internal portals, certificate management platforms, and even an onboarding system for WebApp Studio. Whether it’s crafting UIs with React, building robust backends with Laravel, or deploying apps with CI/CD pipelines, I love making things that work — and work well.
 
