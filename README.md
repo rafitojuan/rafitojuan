@@ -9,11 +9,13 @@
 
 
 ### About me!  
-I’m a passionate Full Stack Software Engineer with a year of hands-on remote experience in various projects while also studying in school. As a recent graduate in Software Engineering, I have honed my skills in both front-end and back-end development, with a particular focus on creating efficient and robust backend systems.
+I'm a passionate Web Developer and IT Support Specialist based in Jakarta, Indonesia. I graduated from SMK Negeri 12 Jakarta, majoring in Software Engineering — and ever since, I’ve been building things on the web (and sometimes fixing the server when it screams for help 😅).
 
-Throughout my projects, I’ve specialized in designing and implementing backend architectures that are not only scalable but also highly efficient. My expertise in backend development is complemented by my enthusiasm for PC hardware, which keeps me constantly updated with the latest technological advancements.
+I’ve worked on a wide range of projects: from a kanban-based project management system for a port electricity company, to internal portals, certificate management platforms, and even an onboarding system for WebApp Studio. Whether it’s crafting UIs with React, building robust backends with Laravel, or deploying apps with CI/CD pipelines, I love making things that work — and work well.
 
-Whether it’s optimizing server performance or building seamless APIs, I thrive on solving complex problems and delivering high-quality solutions. I’m always eager to learn and grow, and I look forward to contributing to innovative projects in the tech industry.  
+I believe in learning by doing, and I thrive in fast-paced, problem-solving environments. I’ve been called the “flexible developer” in my team — not because I do yoga (I don’t, yet), but because I can jump between frontend, backend, server management, and coffee runs ☕.
+
+Thanks for stopping by! Feel free to check out my repositories — and if you’re into clean code, crazy side-projects, or need someone who can debug at 2 AM with a smile, I’m your guy 😄
   
 
 <div align="center">
