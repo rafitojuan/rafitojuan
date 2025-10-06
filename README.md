@@ -105,6 +105,11 @@ Thanks for stopping by! Feel free to check out my repositories — and if you’
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafitojuan&hide_border=true&layout=compact" align="center" /></div>  
 
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=rafitojuan)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafitojuan)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan)](https://github.com/rafitojuan)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=rafitojuan)](https://git.io/streak-stats)
+
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rafitojuan&&style=flat-square)  
