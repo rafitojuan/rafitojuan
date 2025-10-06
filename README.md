@@ -39,9 +39,9 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 
 | 💻 What I'm up to | ✨ Random Fun |
 |-------------------|---------------|
-| 🔭 Working on [**QARIRHACK**](https://qarirhack.gravix.my.id/) | ⚽ Proud Gooner 🔴 |
-| 🌱 Learning **Mobile Development** (already shipped some Flutter apps!) | ☕ Coffee = Code Fuel |
-| 💬 Ask me anything tech-related | 😎 Always open to collabs |
+| 🔭 Working on [**QARIRHACK**](https://qarirhack.gravix.my.id/)
+| 🌱 Learning **Mobile Development** (already shipped some Flutter apps!)
+| 💬 Ask me anything tech-related
 
 <div align="right">
   <img src="https://media.giphy.com/media/xUOwGkkEDShmwU4RfG/giphy.gif" alt="Coding GIF" width="250" />
