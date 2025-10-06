@@ -44,7 +44,7 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 - 🔭 Working on [**QARIRHACK**](https://qarirhack.gravix.my.id/)  
 - 🌱 Learning **Mobile Development** (already shipped some Flutter apps!)  
 - 💬 Ask me anything tech-related  
-- ⚽ Proud **Gooner 🔴**  
+- ⚽ Proud **Gunners 🔴**  
 - ☕ Coffee = Code Fuel  
 - 😎 Always open to collabs  
 
@@ -64,17 +64,18 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3" />
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" alt="PHP" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="TailwindCSS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" alt="PHP" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="50" alt="NextJS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="NodeJS" />
   <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
   <img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" height="50" alt="CodeIgniter" />
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" />
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" />
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="TailwindCSS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="NodeJS" />
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" />
   <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="50" alt="Nginx" />
