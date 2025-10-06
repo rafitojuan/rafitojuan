@@ -51,7 +51,7 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/xUOwGkkEDShmwU4RfG/giphy.gif" alt="Coding GIF" width="100%" />
+<img src="https://media.giphy.com/media/xUOwGkkEDShmwU4RfG/giphy.gif" alt="Coding GIF" width="95%" style="border-radius:12px;" />
 
 </td>
 </tr>
@@ -89,10 +89,28 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 ### 📊 GitHub Stats  
 
 <div align="center">
-
+  
+<table>
+<tr>
+<td align="center" width="50%">
+  
 ![Rafito's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rafitojuan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafitojuan&layout=compact&hide_border=true&theme=tokyonight)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&title=-Stars,-Followers,-Issues,-Reviews&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/rafitojuan)  
+
+</td>
+<td align="center" width="50%">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafitojuan&layout=compact&hide_border=true&theme=tokyonight)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=4&title=Commit,Repositories,PullRequest,Issues)](https://github.com/rafitojuan)
+
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafitojuan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
