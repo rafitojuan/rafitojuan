@@ -37,15 +37,25 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 
 ### ⚡ Rapidfire  
 
-| 💻 What I'm up to |
-|-------------------|
-| 🔭 Working on [**QARIRHACK**](https://qarirhack.gravix.my.id/)
-| 🌱 Learning **Mobile Development** (already shipped some Flutter apps!)
-| 💬 Ask me anything tech-related
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<div align="right">
-  <img src="https://media.giphy.com/media/xUOwGkkEDShmwU4RfG/giphy.gif" alt="Coding GIF" width="250" />
-</div>
+- 🔭 Working on [**QARIRHACK**](https://qarirhack.gravix.my.id/)  
+- 🌱 Learning **Mobile Development** (already shipped some Flutter apps!)  
+- 💬 Ask me anything tech-related  
+- ⚽ Proud **Gooner 🔴**  
+- ☕ Coffee = Code Fuel  
+- 😎 Always open to collabs  
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/xUOwGkkEDShmwU4RfG/giphy.gif" alt="Coding GIF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,9 +89,9 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 
 <div align="center">
 
-![Rafito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafitojuan&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafitojuan&layout=compact&hide_border=true&theme=tokyonight)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/rafitojuan)
+![Rafito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafitojuan&show_icons=true&hide_border=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafitojuan&layout=compact&hide_border=true&theme=tokyonight)  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/rafitojuan)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafitojuan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
