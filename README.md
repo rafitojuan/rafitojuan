@@ -111,7 +111,7 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafitojuan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafitojuan&theme=tokyonight&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
 </div>
 
