@@ -94,7 +94,7 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 <tr>
 <td align="center" width="50%">
   
-![Rafito's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rafitojuan&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+![Rafito's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rafitojuan&show_icons=true&hide_border=true&theme=tokyonight$include_all_commits=true&count_private=true)
 
 </td>
 <td align="center" width="50%">
@@ -107,11 +107,11 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=4&title=Commit,Repositories,PullRequest,Issues)](https://github.com/rafitojuan)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&include_all_commits=true&count_private=true&column=4&title=Commit,Repositories,PullRequest,Issues)](https://github.com/rafitojuan)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafitojuan&theme=tokyonight&hide_border=true&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafitojuan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
 
 </div>
 
