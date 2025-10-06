@@ -37,8 +37,8 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 
 ### ⚡ Rapidfire  
 
-| 💻 What I'm up to | ✨ Random Fun |
-|-------------------|---------------|
+| 💻 What I'm up to |
+|-------------------|
 | 🔭 Working on [**QARIRHACK**](https://qarirhack.gravix.my.id/)
 | 🌱 Learning **Mobile Development** (already shipped some Flutter apps!)
 | 💬 Ask me anything tech-related
