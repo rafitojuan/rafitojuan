@@ -41,7 +41,7 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 <tr>
 <td width="60%" valign="top">
 
-- 🔭 Working on [**QARIRHACK**](https://qarirhack.gravix.my.id/)  
+- 🔭 Working on [**EPI ELECTRIC**]  
 - 🌱 Learning **Mobile Development** (already shipped some Flutter apps!)  
 - 💬 Ask me anything tech-related  
 - ⚽ Proud **Gunners 🔴**  
