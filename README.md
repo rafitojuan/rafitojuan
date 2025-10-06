@@ -107,7 +107,7 @@ but because I can jump between **frontend**, **backend**, **server ops**, and **
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&include_all_commits=true&count_private=true&column=4&title=Commit,Repositories,PullRequest,Issues)](https://github.com/rafitojuan)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rafitojuan&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&count_private=true&column=4&title=Commit,Repositories,PullRequest,Issues)](https://github.com/rafitojuan)
 
 <br/>
 
