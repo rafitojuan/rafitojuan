@@ -7,8 +7,8 @@
 ---
 
 ### 🧠 About Me  
-I'm a passionate **Software Engineer** and **IT Support Specialist** based in **Jakarta, Indonesia**.  
-Graduated from **SMK Negeri 12 Jakarta (Software Engineering major)**, I’ve been building things on the web ever since — and occasionally fixing servers when they scream for help 😅.
+I'm a dedicated **Software Engineer** and **IT Support Specialist** from **Jakarta**, **Indonesia**.
+Currently pursuing a Bachelor’s degree in Information Systems, I graduated from Vocational High School of 12 Jakarta majoring in Software Engineering. I’ve been developing web solutions and managing IT systems since high school, combining creativity with technical precision.
 
 I've worked on various projects:
 - 🗂️ A Kanban-based project management system for a port electricity company  
